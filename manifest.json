@@ -1,13 +1,15 @@
 {
-  "name": "جامعة وادي النيل",
-  "short_name": "وادي النيل",
-  "description": "التطبيق الرسمي لجامعة وادي النيل",
-  "start_url": "/",
-  "display": "standalone",
   "background_color": "#0a1628",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "جامعة وادي النيل",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "وادي النيل",
+  "start_url": "/",
   "theme_color": "#0a1628",
-  "orientation": "portrait",
-  "lang": "ar",
+  "id": "nilevalley.edu.sd",
+  "description": "التطبيق الرسمي لجامعة وادي النيل - الخدمات الطلابية والأكاديمية",
   "icons": [
     {
       "src": "https://via.placeholder.com/192x192/0a1628/c9a84c?text=NVU",
